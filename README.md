@@ -2,7 +2,7 @@
 
 A comprehensive guide to the books of the Bible organized by traditional sections.
 
-## Bible Trackker
+## Bible Tracker
 - https://docs.google.com/spreadsheets/d/1ZF5aBiGx-J04MjlDR9irN0zEAIylJT1sM_SeBKodnik/edit?usp=sharing
 
 ## Old Testament
