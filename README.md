@@ -120,13 +120,13 @@ Four accounts of Jesus Christ's life, ministry, death, and resurrection, each wr
 
 - **John** - A theological Gospel focusing on Jesus' divine nature and His role as the Word made flesh, written that readers might believe.
 
-### Acts of the Apostles
+### Acts of the Apostles / History of Church
 
 The sequel to Luke's Gospel, chronicling the birth and early expansion of the Christian church through the power of the Holy Spirit.
 
 - **Acts** - The spread of the Gospel from Jerusalem to Rome, featuring the ministries of Peter and Paul and the inclusion of Gentiles.
 
-### Pauline Epistles
+### Pauline Epistles / Letters
 
 Thirteen letters attributed to the Apostle Paul, addressing doctrinal issues and practical Christian living in various churches and individuals.
 
@@ -138,15 +138,19 @@ Thirteen letters attributed to the Apostle Paul, addressing doctrinal issues and
 
 - **Galatians** - A strong defense of salvation by grace through faith alone, opposing those who would add works to the Gospel.
 
+- **1 Thessalonians** - Encouragement to a young church, with teachings about Christ's second coming and Christian living.
+
+- **2 Thessalonians** - Further instruction about the Day of the Lord and the importance of working while waiting.
+
+### Prison Letters
+
 - **Ephesians** - Emphasizes the believer's position in Christ and the unity of the church as the body of Christ.
 
 - **Philippians** - A joyful letter encouraging contentment and partnership in the Gospel despite circumstances.
 
 - **Colossians** - Combats false teaching by emphasizing the supremacy and sufficiency of Christ in all things.
 
-- **1 Thessalonians** - Encouragement to a young church, with teachings about Christ's second coming and Christian living.
-
-- **2 Thessalonians** - Further instruction about the Day of the Lord and the importance of working while waiting.
+### Pastoral Letters
 
 - **1 Timothy** - Pastoral instructions for church leadership, sound doctrine, and proper church order.
 
@@ -176,7 +180,7 @@ Eight letters written by various apostles to the broader Christian community, ad
 
 - **Jude** - A strong warning against false teachers who have infiltrated the church and a call to contend for the faith.
 
-### Revelation
+### Revelation / Prophecy
 
 The final book of the Bible, containing apocalyptic visions of Christ's ultimate victory and the establishment of God's eternal kingdom.
 
