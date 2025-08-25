@@ -2,6 +2,9 @@
 
 A comprehensive guide to the books of the Bible organized by traditional sections.
 
+## Bible Trackker
+- https://docs.google.com/spreadsheets/d/1ZF5aBiGx-J04MjlDR9irN0zEAIylJT1sM_SeBKodnik/edit?usp=sharing
+
 ## Old Testament
 
 The Old Testament contains 39 books that chronicle God's relationship with humanity from creation through the period before Christ. These books form the foundation of biblical history, law, wisdom, and prophecy.
