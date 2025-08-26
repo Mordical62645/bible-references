@@ -25,3 +25,5 @@ This chapter cover `Christ Our Advocate`, `The New Commandment`, `Do Not Love th
 - Obedience nurtures love.
 - Assurance comes not from feelings, but from faith in Christ expressed in obedience.
 - STRIVE FOR CONSISTENCY. Love matures when we walk daily in God's word.
+- To "abide" in Christ means to stay, remain, "bumabad", or soaked in deep union. To "abide" we must walk as He did - humility, love, obedience, sacrifice.
+- "Does my life look like Jesus' life?". Christ is the pattern.
