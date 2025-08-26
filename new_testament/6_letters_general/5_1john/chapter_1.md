@@ -29,4 +29,4 @@ it shows that "this is what God can do" and it may complete someone's joy.
 - When we pursue God, we pursue light with no mixture of sin or "gray areas" where sin hides.
 - Faith is not just words but by lifestyle. Claiming fellowship with God while living in sin is hypocrisy.
 - Walking with God is walking with others as well. 
-- Acknowledge that we sinned against God and walk with humility. Confess and don't hide. Bring it to light where grace covers it. To deny sin, is to deny truth.
+- Acknowledge that we sinned against God and walk with humility. Confess and don't hide. Bring it to light where grace covers it. To deny sin, is to deny truth.    
